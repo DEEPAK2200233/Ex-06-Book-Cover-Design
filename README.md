@@ -1,4 +1,9 @@
 # Ex-06-Book-Cover-Design
+## AIM:
+To develop a website to display the cover page design of a book
+## Design Steps:
+Step 1:
+Write the html code.
 ## CODE
 ```
 <html>
